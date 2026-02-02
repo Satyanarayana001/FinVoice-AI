@@ -78,7 +78,7 @@ This design reduces **cost, latency, and dependency on cloud APIs** while remain
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/Satyanarayana/FinVoice-AI.git
+git clone https://github.com/Satyanarayana001/FinVoice-AI.git
 cd FinVoice-AI
 ---
 
